@@ -1,0 +1,48 @@
+.section6{
+  padding: 50px;
+  padding-bottom: 50px;
+}
+
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 10px solid rgb(52, 140, 169);
+  position: relative;
+  margin: 10px 280px;
+}
+.paragraph{
+   width: 400px;
+}
+.paragraph p{
+  font-size: 22px;
+}
+.content2 img{
+  width: 600px;
+  height: 400px;
+}
+
+.content2 h2{
+  position: absolute;
+  bottom: 20%;
+  right: 15%;
+  font-size: 30px;
+  
+}
+
+.content2 span{
+  font-size: 75px;
+}
+
+.lastbadge{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+
+.lastbadge img{
+   width: 120px;
+}

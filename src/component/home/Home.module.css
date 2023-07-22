@@ -1,0 +1,59 @@
+.HomeWrapper{
+    margin-top: 4.5%;
+}
+
+.contentSlider{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: #4c805a;
+}
+
+.contentSlider p{
+    color: #ffffffc9;
+    font-size: 17px;
+    font-family: Sans,sans-serif;
+}
+.contentSlider a{
+    color: #fdcd0a;
+    padding: 4px 7px;
+}
+
+.homeContainer{
+    display: flex;
+    justify-content: center;
+    background-color: #ffe8e0;
+}
+
+.rightContainer{
+    width: 600px;
+    padding: 3rem 2rem;
+    margin: 1rem 2rem;
+}
+.rightContainer span{
+    font-size: 3rem;
+    color: rgb(75, 70, 70);
+    font-weight: 600;
+    font-family: Work Sans Bold,sans-serif;
+}
+
+.buttonWrapper button{
+    margin: 10px 5px;
+    text-transform: uppercase;
+}
+.rightContainer p{
+    font-size: 1.3rem;
+    color: rgb(75, 70, 70);
+}
+
+.leftContainer{
+    margin: 0 5rem;
+    padding: 1rem 3rem;
+    padding-top: 0px;
+}
+
+.leftContainer img{
+    width: 600px;
+    height: 400px;
+}

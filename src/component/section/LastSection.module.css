@@ -1,0 +1,21 @@
+.lastSection{
+    background-color: #ffe8e0;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.contentPart h1{
+    padding: 15px 10px;
+    font-family: sans-serif;
+    color: #655d5d;
+}
+
+.buttonContainer{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 20px 10px;
+}
